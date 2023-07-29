@@ -106,7 +106,7 @@ namespace HelloWorld
 
      Console.WriteLine("Up and Running =)");
     Console.WriteLine("Testing");
-    asdsadsa
+    DENEME
 
         // Console.WriteLine(myComputer.Motherboard);
         // Console.WriteLine(myComputer.HasWifi);
