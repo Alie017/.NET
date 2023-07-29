@@ -105,9 +105,7 @@ namespace HelloWorld
           }
 
      Console.WriteLine("Up and Running =)");
-    Console.WriteLine("Testing");
-    DENEME
-    dENEME 2
+
     
 
         // Console.WriteLine(myComputer.Motherboard);
