@@ -3000,11 +3000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/DotNet/DotNet.csproj",
-      "projectName": "DotNet",
-      "projectPath": "/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/DotNet/DotNet.csproj",
+      "projectUniqueName": "/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/HelloWorld/HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/aliemreaygun/.nuget/packages/",
-      "outputPath": "/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/DotNet/obj/",
+      "outputPath": "/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aliemreaygun/.nuget/NuGet/NuGet.Config"
