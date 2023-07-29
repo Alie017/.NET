@@ -105,6 +105,7 @@ namespace HelloWorld
           }
 
           Console.WriteLine("git push test");
+          Console.WriteLine("git push test2");
 
         // Console.WriteLine(myComputer.Motherboard);
         // Console.WriteLine(myComputer.HasWifi);
