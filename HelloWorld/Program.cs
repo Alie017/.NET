@@ -9,6 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 namespace HelloWorld
+
 {
   
     internal class Program
@@ -104,8 +105,7 @@ namespace HelloWorld
 
           }
 
-     Console.WriteLine("Up and Running =)");
-     Console.WriteLine("TESTING THE BRANCH EH?");
+  
 
     
 
