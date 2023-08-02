@@ -108,7 +108,7 @@ namespace HelloWorld
         // Console.WriteLine(myComputer.HasWifi);
         // Console .WriteLine(myComputer.ReleaseDate);
         // Console.WriteLine(myComputer.VideoCard);
-        dsadadsa
+        Console.WriteLine("The code is up and running ");
   }
   }
   }
