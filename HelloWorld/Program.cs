@@ -113,6 +113,7 @@ namespace HelloWorld
         // Console.WriteLine(myComputer.HasWifi);
         // Console .WriteLine(myComputer.ReleaseDate);
         // Console.WriteLine(myComputer.VideoCard);
+        Console.WriteLine("Deneme");
   }
   }
   }
