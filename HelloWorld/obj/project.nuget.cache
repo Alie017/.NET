@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ehr3kFR87YOdO+TxG632SBRpm6v0k6C1yI6ARvv6bDJZuEp/t6JFf8jW8wCOKNPAdWQAgRi2uOe1OEcPM+SqGg==",
+  "dgSpecHash": "eWVdSUNb4EeLKp2/JdpmgmolMky1EmmWcpsoIgwfmNC61xNd6wywKQhSsPcwAC5gLomqIYSTaQl61pefRsUmQA==",
   "success": true,
-  "projectFilePath": "/Users/aliemreaygun/Documents/dotnet/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [
     "/Users/aliemreaygun/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/aliemreaygun/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
