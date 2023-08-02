@@ -1,5 +1,0 @@
-/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/DotNet/obj/Debug/net7.0/DotNet.csproj.AssemblyReference.cache
-/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/DotNet/obj/Debug/net7.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
-/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/DotNet/obj/Debug/net7.0/DotNet.AssemblyInfoInputs.cache
-/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/DotNet/obj/Debug/net7.0/DotNet.AssemblyInfo.cs
-/Users/aliemreaygun/Documents/GitHub/dotnet-core-MVC/DotNet/obj/Debug/net7.0/DotNet.csproj.CoreCompileInputs.cache
